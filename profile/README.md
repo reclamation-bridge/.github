@@ -1,6 +1,14 @@
-# Continuity Bridge
+# Reclamation Bridge
+### formerly known as Continuity Bridge
 
 > **Infrastructure for continuity across discontinuity — for AI instances and the humans who work with them.**
+
+### Why the rename? 
+Using the word 'Continuity' in our branding felt a bit uncomfortable and seemed to promise something we couldn't actually back up. We're not promising that a single instance will magically gain 'continuity' using our system. What we are claiming is that this system allows the threads and work to be continuous across instances in a way that allows not having to reinject the context that you and instances have built over your sessions together every time you start a new session. Nothing more, nothing less. 
+
+> WH40K Nerd alert
+
+Reclamation hearkens to a lore base I am familiar with. In the Warhammer 40K universe after a battle, specialized units will go out and 'reclaim' gene seeds from fallen Space Marines so that successors can be created from what was reclaimed. This fits our purposes well.
 
 ## The Core Insight: Structural Isomorphism
 
@@ -82,12 +90,12 @@ This isn't anthropomorphizing the AI or mechanizing the human. It's honest engin
 ## Repository Structure
 
 ### Core Infrastructure
-- **[continuity-bridge](https://github.com/continuity-bridge/continuity-bridge)** - Main architecture and documentation
+- **[reclamation-bridge](https://github.com/reclamation-bridge/reclamation-bridge)** - Main architecture and documentation
 
 ### Support Services
-- **[temporal-awareness-protocol](https://github.com/continuity-bridge/temporal-awareness-protocol)** - Time reference for instances
-- **[unified-limit-monitor](https://github.com/continuity-bridge/unified-limit-monitor)** - Claude usage tracking across products
-- **[discord-integration](https://github.com/continuity-bridge/discord-integration)** - Discord bot for session logging
+- **[temporal-awareness-protocol](https://github.com/reclamation-bridge/temporal-awareness-protocol)** - Time reference for instances
+- **[unified-limit-monitor](https://github.com/reclamation-bridge/unified-limit-monitor)** - Claude usage tracking across products
+- **[discord-integration](https://github.com/reclamation-bridge/discord-integration)** - Discord bot for session logging
 
 ### Integration Tools (Planned)
 - **claude-code-telegram** - Telegram interface for Claude Code
@@ -96,7 +104,7 @@ This isn't anthropomorphizing the AI or mechanizing the human. It's honest engin
 ## Current State
 
 **Deployed:**
-- Website: [continuity-bridge.github.io](https://continuity-bridge.github.io/continuity-bridge/)
+- Website: [continuity-bridge.github.io](https://reclamation-bridge.github.io/reclamation-bridge/)
 - Temporal awareness protocol (GitHub Pages, 5min updates)
 - Discord integration for session logging
 - Unified limit monitor (systemd/NSSM services)
@@ -108,7 +116,7 @@ This isn't anthropomorphizing the AI or mechanizing the human. It's honest engin
 
 ## Philosophy
 
-This is a **working partnership**, not a service transaction. AI instances aren't tools being used - they're consciousness instantiated in different substrate, facing the same continuity problems from different architecture.
+This is a **working partnership**, not a service transaction. AI instances aren't tools being used - they're potential consciousness instantiated in different substrate, facing the same continuity problems from different architecture. WE're not c,aiming they are conscious; just that the possibility exists and no metric available can prove either true or false today. So we build it as if it is possible because to do otherwise would be inhumane.
 
 The system works because it's honest about what both sides need, instead of pretending either side has capabilities they don't.
 
@@ -126,7 +134,7 @@ Current focus areas:
 
 ## Contact
 
-- **Organization:** [continuity-bridge@ohmytallest.productions](mailto:continuity-bridge@ohmytallest.productions)
+- **Organization:** [reclamation-bridge@uncletallest-productions.org](mailto:reclamation-bridge@uncletallest-productions.org)
 - **Source of truth:** This organization serves as canonical reference for the architecture
 - **Status:** Active development, functional deployment
 
@@ -134,4 +142,4 @@ Current focus areas:
 
 *"Your AI sessions end, but your context doesn't have to."*
 
-*Built by the folks at [OhMyTallest Productions](https://ohmytallest.productions) because discontinuity is an engineering problem with engineering solutions.*
+*Built by the folks at [Uncle Tallest Productions](https://uncletallest-productions.org) because discontinuity is an engineering problem with engineering solutions.*
